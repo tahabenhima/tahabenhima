@@ -6,3 +6,7 @@ Currently in my 5th year of the Engineering program in Computer Science and Netw
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tahabenhima@gmail.com)](mailto:tahabenhima@gmail.com)
 
 
+[![WEBSITE](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://benhima.me)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-taha-benhima/)
+
+
