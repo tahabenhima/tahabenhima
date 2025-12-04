@@ -7,5 +7,5 @@ Currently in my 5th year of the Engineering program in Computer Science and Netw
 
 
 [![WEBSITE](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://benhima.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-taha benhima-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-taha-benhima/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taha-benhima-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-taha-benhima/)
 
